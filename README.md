@@ -1,6 +1,6 @@
 # url-shorter-dio
 
-A simple URL shorter for a code challenge on [DIO](https://www.dio.me/)
+A simple URL shorter made for a code challenge at [DIO](https://www.dio.me/)
 
 After clone, install the dependencies:
 >npm i
