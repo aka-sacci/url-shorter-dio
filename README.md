@@ -7,6 +7,7 @@ After clone, install the dependencies:
 
 On the root of the project, create a .env file with:
 >API_URL="http://localhost:4002" //Don't change this
+
 >DATABASE_URL="YOUR_MONGODB_URL"
 
 Run in development mode:
